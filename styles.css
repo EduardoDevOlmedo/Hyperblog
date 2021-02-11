@@ -3,10 +3,42 @@ body{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
-  padding: 10px 5px;
+  padding: 30px 30px;
   border: 50px solid rgb(161, 148, 148);
+<<<<<<< HEAD
 }
 
 p{
   text-align: justify;
+=======
+  margin: 0 auto;
+
+}
+
+#container{
+
+  width: 70%;
+  padding: 10px;
+  text-align: left;
+
+}
+
+p{
+  text-align: center;
+}
+
+#cabecera{
+  background-color: blueviolet;
+  text-align: left;
+  margin: 15px;
+  margin-top: -10px;
+  padding: 10px;
+  color: beige;
+  font-weight: 500;
+  box-shadow: 0px 20px 20px 0px rgb(161, 148, 148);
+}
+
+#tagline{
+  margin-left: 650px;
+>>>>>>> cabecera
 }
