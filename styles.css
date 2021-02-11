@@ -1,16 +1,10 @@
 body{
-  color: bisque;
+  color: rgb(240, 233, 226);
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   padding: 30px 30px;
   border: 50px solid rgb(161, 148, 148);
-<<<<<<< HEAD
-}
-
-p{
-  text-align: justify;
-=======
   margin: 0 auto;
 
 }
@@ -24,7 +18,8 @@ p{
 }
 
 p{
-  text-align: center;
+  text-align: left;
+  font-weight: bold;
 }
 
 #cabecera{
@@ -40,5 +35,14 @@ p{
 
 #tagline{
   margin-left: 650px;
->>>>>>> cabecera
+}
+
+.greeting{
+    display: block;
+    text-align: center;
+}
+
+h1{
+  font-weight: bold;
+  color: black;
 }
