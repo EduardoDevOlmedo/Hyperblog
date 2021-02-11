@@ -6,3 +6,7 @@ body{
   padding: 10px 5px;
   border: 50px solid rgb(161, 148, 148);
 }
+
+p{
+  text-align: justify;
+}
