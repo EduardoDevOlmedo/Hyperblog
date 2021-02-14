@@ -46,3 +46,8 @@ h1{
   font-weight: bold;
   color: black;
 }
+
+#footer{
+  background-color: rgb(161, 148, 148);
+  text-align: center;
+}
