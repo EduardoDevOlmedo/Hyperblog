@@ -48,8 +48,14 @@ h1{
   color: black;
 }
 
+<<<<<<< HEAD
 #logo{
   width: 40px;  
   vertical-align: middle;
 
+=======
+#footer{
+  background-color: rgb(161, 148, 148);
+  text-align: center;
+>>>>>>> footer
 }
