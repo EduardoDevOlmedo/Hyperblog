@@ -51,5 +51,10 @@ h1{
 #logo{
   width: 40px;  
   vertical-align: middle;
+}
 
+#footer{
+  background-color: rgb(73, 53, 53);
+  text-align: center;
+  color: black;
 }
