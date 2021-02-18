@@ -1,10 +1,7 @@
-Esta es la historia de Eduardo Olmedo
 
 Eduardo Olmedo tiene 17 años y nació en El Salvador nah mentira nació en la casa de willyrex
 Se tiro un pedo y se hizo reggaetonero.
 
-<<<<<<< HEAD
 Hoy hablaremos de su trayectoria y vida obra maestra.
-=======
-Hoy hablaremos de su trayectoria y vida obra maestra. Y sus 22 dias.
->>>>>>> cabecera
+
+Master 1.
